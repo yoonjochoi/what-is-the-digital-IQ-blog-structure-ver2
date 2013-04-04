@@ -1,0 +1,479 @@
+body {
+	margin:0px;
+	padding:0px;
+/* 	background: url(/static/img/background.jpg) no-repeat center center fixed; */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	overflow:scroll;
+	height: 30000px;
+}
+
+
+
+/****** FONTS ******/
+.fontRaleway{
+	font-family: 'Raleway', sans-serif; 
+	font-weight: 100;
+}
+
+.c-kiwi{
+	color:#a0cd55;
+}
+
+.c-orange{
+	color:#ff6f3e;
+}
+
+.c-lake{
+	color:#3b94d1;
+}
+
+.c-orchid{
+	color:#bf4398
+}
+
+.c-white{
+	color: #fff;
+}
+
+.text-align-center{
+	text-align: center;
+}
+
+.s1{
+	font-size: 12px;
+}
+
+.s2{
+	font-size: 15px;
+}
+
+.s4{
+	font-size:24px;
+	line-height: 27px;
+}
+
+.s5{
+	font-size:45px;
+}
+
+.s6{
+	font-size: 60px;
+}
+
+.s7{
+	font-size: 36px;
+}
+
+/* white background */
+div.container {
+/*      background: rgba(255, 255, 255, 0.6); */
+}
+
+h1.pageheader a, h1.pageheader a:hover {
+    font-family: 'Raleway', sans-serif;
+    font-size:65px;
+    line-height:72px;
+
+    color:red;
+    text-shadow: 3px 3px 3px #000;
+    /* text-align:center; */
+    margin: 0 auto;
+
+}
+
+p,li, label {
+    font-size:18px;
+}
+
+footer { text-align: center;}
+
+
+.span-center{
+	text-align: center;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+/****** CONTENTS ******/
+#landing-page{
+	position:fixed;
+}
+
+#l2-logo{
+	position:fixed;
+}
+
+h1{
+	position:fixed;
+}
+
+#intro-page{
+	position:fixed;
+}
+
+#intro-page-site{
+	position:fixed;
+}
+
+#intro-page-digital-marketing{
+	position:fixed;
+}
+
+#intro-page-mobile{
+	position:fixed;
+}
+
+#intro-page-social-media{
+	position:fixed;
+}
+
+#intro-page-text{
+	position: fixed;
+}
+
+#top-background{
+	position: fixed;
+	background-color: blue;
+	width: 970px;
+	height: 200px;
+}
+
+#site{
+	position:fixed;
+	width: 970px;
+	height: 100%;
+}
+
+#site-main{
+	position: fixed;
+}
+
+#site-arrow-1{
+	position: fixed;
+	margin-left: -132px;
+	margin-top: 129px;
+}
+
+#site-arrow-2{
+	position: fixed;
+	margin-top: -132px;
+}
+
+#site-arrow-3{
+	position: fixed;
+	margin-left: 255px;
+	margin-top: -21px;
+}
+
+#digitalMarketing{
+	position:fixed;
+	width: 970px;
+	height: 100%;
+}
+
+#digital-marketing-main{
+	position:fixed;
+}
+
+#digital-marketing-texture-1{
+	position:fixed;
+}
+
+#digital-marketing-texture-2{
+	position:fixed;
+}
+
+#mobile{
+	position:fixed;
+	width: 970px;
+	height: 100%;
+}
+
+#mobile-main{
+	position:fixed;
+}
+
+#mobile-ring1{
+	position:fixed;
+}
+#mobile-ring2{
+	position:fixed;
+}
+#mobile-ring3{
+	position:fixed;
+}
+#mobile-rings{
+	position:fixed;
+}
+
+#socialMedia{
+	position:fixed;
+	width: 970px;
+	height: 100%;
+}
+
+#social-media-main{
+	position: fixed;
+}
+
+#social-media-sub-1{
+	position: fixed;
+}
+
+#social-media-sub-2{
+	position: fixed;
+}
+
+.glow-box{
+	width:60px; 
+	height:60px; 
+	box-shadow:0px 0px 13px #a0cd55;
+	margin-top: 20px;
+}
+
+#bg-bottom-icon{
+	position:fixed;
+}
+
+.pos-bottom-icons{
+	position:relative; 
+	left:100px; 
+	top:30px;	
+}
+
+#wrap-bottom-icons{
+	position: fixed;
+}
+
+#BI-bg1{
+	position:fixed;
+}
+
+#BI-bg2{
+	position:fixed;
+}
+
+#BI-bg3{
+	position:fixed;
+}
+
+#BI-bg4{
+	position:fixed;
+}
+
+#BI1{
+	position:fixed;
+}
+
+#BI2{
+	position:fixed;
+}
+
+#BI3{
+	position:fixed;
+}
+
+#BI4{
+	position:fixed;
+}
+
+#bottom-icon-site{
+	position:relative; 
+	left:100px; 
+	top:10px;
+}
+
+#bottom-icon-digital-marketing{
+	position:relative;
+}
+
+#bottom-icon-Mobile{
+	position:relative;
+}
+
+#bottom-icon-social-media{
+	position:relative;
+}
+
+#span-Ranking{
+	position: fixed;
+}
+
+#span-Reports{
+	position:fixed;
+}
+
+#span-DigitalIQ{
+	position: fixed;
+}
+
+#ranking-bg{
+	position:fixed;
+}
+
+#wrap-reports{
+	position:fixed;	
+	width: 970px;
+/* 	background-color:#a0cd55; */
+}
+
+#ranking-reportcover1-1{
+	position:fixed;		
+}
+#ranking-reportcover1-2{
+	position:fixed;		
+}
+#ranking-reportcover1-3{
+	position:fixed;		
+}
+#ranking-reportcover1-4{
+	position:fixed;		
+}
+#ranking-reportcover2-1{
+	position:fixed;		
+}
+#ranking-reportcover2-2{
+	position:fixed;		
+}
+#ranking-reportcover2-3{
+	position:fixed;		
+}
+#ranking-reportcover2-4{
+	position:fixed;		
+}
+#ranking-reportcover3-1{
+	position:fixed;		
+}
+#ranking-reportcover3-2{
+	position:fixed;		
+}
+#ranking-reportcover3-3{
+	position:fixed;		
+}
+#rranking-homepagelink{
+	position:fixed;		
+}
+
+#R1{
+	position: fixed;
+}
+
+#R2{
+	position: fixed;
+}
+
+#R3{
+	position: fixed;
+}
+
+#R4{
+	position: fixed;
+}
+
+#R5{
+	position: fixed;
+}
+
+.bg-kiwi{
+	background-color: #a0cd55;
+	width: window.width;
+	height: window.height;
+}
+
+
+
+
+/* MIDDLE */
+.shadow {
+	-moz-box-shadow: 0px 0px 30px #aaa;
+	-webkit-box-shadow: 0px 0px 30px #aaa;
+	box-shadow: 0px 0px 30px #aaa;
+}
+
+
+#middle{
+	position: fixed;
+	width: 100%;
+	height:100%;
+	top:0%;
+	left: 0px;
+}
+
+#topBanner{
+	position: fixed;
+	width: 100%;
+	height:110px;
+	top:100%;
+	left: 0px;
+	background-color:#fff;
+}
+
+#thumbnailsContainer{
+	position: relative;
+	width: 100%;
+	height:100%;
+	top:110px;
+	left: 0px;
+	background-color:#fff;	
+	z-index: -2;
+}
+
+
+/* BOTTOM */
+#bottom{
+	position: fixed;
+	width: 100%;
+	height:100%;
+	top:110px;
+	left: 0px;
+	background-color:#E0E1E2;
+	z-index: -1;
+}
+
+.center{
+/* 	height: 500px; */
+	width: 970px;
+/* 	margin: 0 auto; */
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+/*
+	position: fixed;
+	left: 50%;
+	margin-left: -470px;
+*/
+
+/*
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+
+	-webkit-box-align: start;
+	-moz-box-align: start;
+	box-align: start;
+
+	-webkit-box-pack: center;
+	-moz-box-pack: center;
+	box-pack: center;
+}
+
+.box-3{
+	-webkit-box-flex: 3;
+	-moz-box-flex: 3;
+	box-flex: 3;
+*/
+}
+
+.width{
+	width:30%;
+}
+
