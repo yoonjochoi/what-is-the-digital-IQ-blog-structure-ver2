@@ -376,6 +376,7 @@ $(function(){
 						   {progress:'93%', top: '100%', display:'block'},
 						   {progress:'100%', top: '25%', display:'block'}]);
 						   
+/*
 	jarallax.addAnimation('#ranking-reportcover1-1, #ranking-reportcover2-1, #ranking-reportcover3-1', 
 						   [{progress:'0%', marginLeft: '-250%'},
 						   {progress:'93%', marginLeft: '-250%', display:'block'},
@@ -400,6 +401,34 @@ $(function(){
 						   {progress:'93%', marginLeft: '350%', display:'block'},
 						   {progress:'98%', marginLeft: '0%', display:'block'},
 						   {progress:'100%', marginLeft: '0%', display:'block'}]);
+*/
+
+/*
+	jarallax.addAnimation('#ranking-reportcover1-1, #ranking-reportcover2-1, #ranking-reportcover3-1', 
+						   [{progress:'0%'},
+						   {progress:'93%', display:'block'},
+						   {progress:'98%', display:'block'},
+						   {progress:'100%', display:'block'}]);
+						   
+	jarallax.addAnimation('#ranking-reportcover1-2,#ranking-reportcover2-2, #ranking-reportcover3-2', 
+						   [{progress:'0%'},
+						   {progress:'93%', display:'block'},
+						   {progress:'98%', display:'block'},
+						   {progress:'100%', display:'block'}]);					   
+						   
+						   
+	jarallax.addAnimation('#ranking-reportcover1-3, #ranking-reportcover2-3,#ranking-reportcover3-3', 
+						   [{progress:'0%'},
+						   {progress:'93%', display:'block'},
+						   {progress:'98%', display:'block'},
+						   {progress:'100%', display:'block'}]);
+						   
+	jarallax.addAnimation('#ranking-reportcover1-4,#ranking-reportcover2-4, #ranking-homepagelink', 
+						   [{progress:'0%'},
+						   {progress:'93%', display:'block'},
+						   {progress:'98%', display:'block'},
+						   {progress:'100%', display:'block'}]);
+*/
 						   
 });
 
