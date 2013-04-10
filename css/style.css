@@ -85,7 +85,7 @@ h1.pageheader a, h1.pageheader a:hover {
 }
 
 p,li, label {
-    font-size:18px;
+    font-size:16px;
 }
 
 footer { text-align: center;}
@@ -113,6 +113,10 @@ footer { text-align: center;}
 }
 
 h1{
+	position:fixed;
+}
+
+#scrollDown{
 	position:fixed;
 }
 
@@ -326,6 +330,10 @@ h1{
 /* 	background-color:#a0cd55; */
 }
 
+.reportcover-w{
+	width: 170px;
+}
+
 #ranking-reportcover1-1{
 	position:fixed;		
 }
@@ -389,6 +397,9 @@ h1{
 	height: window.height;
 }
 
+.reportImg-width{
+	width:170px;
+}
 
 
 
