@@ -74,7 +74,7 @@ div.container {
 
 h1.pageheader a, h1.pageheader a:hover {
     font-family: 'Raleway', sans-serif;
-    font-size:65px;
+    font-size:55px;
     line-height:72px;
 
     color:red;
@@ -85,7 +85,7 @@ h1.pageheader a, h1.pageheader a:hover {
 }
 
 p,li, label {
-    font-size:16px;
+    font-size:15px;
 }
 
 footer { text-align: center;}
@@ -326,12 +326,12 @@ h1{
 
 #wrap-reports{
 	position:fixed;	
-	width: 970px;
+	width: 820px;
 /* 	background-color:#a0cd55; */
 }
 
 .reportcover-w{
-	width: 170px;
+	width: 150px;
 }
 
 #ranking-reportcover1-1{
@@ -397,9 +397,11 @@ h1{
 	height: window.height;
 }
 
+/*
 .reportImg-width{
-	width:170px;
+	width:143px;
 }
+*/
 
 
 
